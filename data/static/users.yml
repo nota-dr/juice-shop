@@ -272,10 +272,10 @@
   role: 'admin'
 -
   email: splinter
-  password: 'focusOnScienceMorty!focusOnScience'
+  password: 'febjeh-W4tcoo'
   key: splinter
   role: 'seller'
   walletBalance: 100
   securityQuestion:
-    id: 7
+    id: 11
     answer: 'DOnAt3l10'
