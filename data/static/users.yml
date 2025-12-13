@@ -274,7 +274,7 @@
   email: splinter
   password: 'febjeh-W4tcoo'
   key: splinter
-  role: 'seller'
+  role: 'customer'
   walletBalance: 100
   securityQuestion:
     id: 11
