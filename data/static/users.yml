@@ -1,6 +1,6 @@
 -
   email: admin
-  password: 'admin123'
+  password: 'Qwererqw'
   key: admin
   role: 'admin'
   securityQuestion:
@@ -270,3 +270,12 @@
   password: 'IamUsedForTesting'
   key: LetUsTest
   role: 'admin'
+-
+  email: splinter
+  password: 'focusOnScienceMorty!focusOnScience'
+  key: splinter
+  role: 'seller'
+  walletBalance: 100
+  securityQuestion:
+    id: 7
+    answer: 'DOnAt3l10'
