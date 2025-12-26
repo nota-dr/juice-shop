@@ -38,7 +38,7 @@ export function likeProductReviews () {
       )
 
       // Artificial wait for timing attack challenge
-      await sleep(150)
+      // await sleep(150)
       try {
         const updatedReview: Review = await db.reviewsCollection.findOne({ _id: id })
         const updatedLikedBy = updatedReview.likedBy
